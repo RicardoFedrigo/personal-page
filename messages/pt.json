@@ -1,0 +1,62 @@
+{
+  "Nav": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "contact": "Contato",
+    "downloadCv": "Baixar Currículo",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "Hero": {
+    "title": "Ricardo Fedrigo",
+    "subtitle": "Engenheiro de Software com mais de 5 anos de experiência sólida no ecossistema Node.js e TypeScript, focado no desenvolvimento de APIs RESTful escaláveis, arquitetura de microsserviços e integração de soluções em nuvem (AWS e GCP).",
+    "aiFocus": "Atualmente pioneiro em Desenvolvimento Assistido por IA (AI-Assisted Development), integrando agentes autônomos, Claude Code e servidores MCP (Model Context Protocol) para otimizar o ciclo de entrega de software.",
+    "cta": "Entrar em Contato",
+    "download": "Baixar Currículo"
+  },
+  "Terminal": {
+    "title": "terminal_interativo.sh",
+    "placeholder": "Tente digitar 'help', 'skills', 'experience' ou 'clear'...",
+    "welcome": "Bem-vindo ao Terminal do Ricardo v2.0.0 (Assistido por IA)",
+    "help": "Comandos disponíveis: help, skills, contact, experience, clear",
+    "skills": "Frontend: React, Vue, Angular, SCSS, Tailwind CSS\nBackend: Node.js, NestJS, Spring Boot, Python\nBancos & Cache: PostgreSQL, Redis, MongoDB\nDevOps: Docker, Heroku, AWS, GCP, CI/CD",
+    "contact": "E-mail: ricardo.fedrigo1995@gmail.com\nLinkedIn: https://www.linkedin.com/in/ricardo-fedrigo/\nGitHub: https://github.com/RicardoFedrigo"
+  },
+  "Experience": {
+    "title": "Experiência Profissional",
+    "present": "Atualidade",
+    "technologies": "Tecnologias Utilizadas",
+    "cna_desc": [
+      "Engenheiro de Software atuando em arquitetura monorepo de alto desempenho e microsserviços escaláveis utilizando RabbitMQ.",
+      "Construção de APIs robustas utilizando padrões GraphQL e RESTful.",
+      "Implantação e gerenciamento de ambientes Docker conteinerizados e orquestração via Heroku."
+    ],
+    "mutant_desc": [
+      "Desenvolvimento de microsserviços rápidos usando NestJS e GCP (Pub/Sub, Cloud Functions, Cloud Scheduler).",
+      "Pioneirismo em ferramentas de desenvolvimento assistidas por IA através da implantação de servidores MCP customizados.",
+      "Criação de suítes completas de testes unitários, de integração e E2E robustos com Jest."
+    ],
+    "konatus_desc": [
+      "Entrega de soluções robustas full-stack transitando entre backend Node.js, Java (Spring Boot) e frontend Angular.",
+      "Demonstração de curva de aprendizado rápido em ambientes ágeis de alta intensidade."
+    ],
+    "objective_desc": [
+      "Construção de APIs de baixa latência com Node.js, Express, Joi, Redis e MongoDB.",
+      "Criação de interfaces altamente interativas e ricas com React, Redux e TypeScript.",
+      "Realização de revisões de código detalhadas e liderança técnica descentralizada em times scrum."
+    ],
+    "tecnospeed_desc": [
+      "Engenharia de microsserviços utilizando NestJS e TypeORM com PostgreSQL.",
+      "Integração de serviços de fila seguros e de alto volume utilizando AWS SQS, S3 e CloudWatch."
+    ]
+  },
+  "Contact": {
+    "title": "Vamos Construir Algo Juntos",
+    "subtitle": "Sinta-se à vontade para entrar em contato para colaborações, oportunidades de projetos ou apenas para conversar sobre engenharia de software assistida por IA e arquiteturas em nuvem.",
+    "email": "Enviar E-mail",
+    "form_name": "Nome",
+    "form_email": "E-mail",
+    "form_message": "Mensagem",
+    "form_submit": "Enviar Mensagem"
+  }
+}
