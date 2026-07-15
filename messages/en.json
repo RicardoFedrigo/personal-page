@@ -1,0 +1,62 @@
+{
+  "Nav": {
+    "about": "About",
+    "experience": "Experience",
+    "contact": "Contact",
+    "downloadCv": "Download CV",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "Hero": {
+    "title": "Ricardo Fedrigo",
+    "subtitle": "Software Engineer with 5+ years of solid experience in the Node.js and TypeScript ecosystem, focused on developing scalable RESTful APIs, microservices architecture, and cloud solutions (AWS & GCP).",
+    "aiFocus": "Currently pioneering AI-Assisted Development using autonomous agents, Claude Code, and Model Context Protocol (MCP) servers to optimize software lifecycle delivery.",
+    "cta": "Get In Touch",
+    "download": "Download Resume"
+  },
+  "Terminal": {
+    "title": "interactive_terminal.sh",
+    "placeholder": "Try typing 'help', 'skills', 'experience' or 'clear'...",
+    "welcome": "Welcome to Ricardo's Terminal v2.0.0 (AI-Assisted)",
+    "help": "Available commands: help, skills, contact, experience, clear",
+    "skills": "Frontend: React, Vue, Angular, SCSS, Tailwind CSS\nBackend: Node.js, NestJS, Spring Boot, Python\nDatabases & Caching: PostgreSQL, Redis, MongoDB\nDevOps: Docker, Heroku, AWS, GCP, CI/CD",
+    "contact": "Email: ricardo.fedrigo1995@gmail.com\nLinkedIn: https://www.linkedin.com/in/ricardo-fedrigo/\nGitHub: https://github.com/RicardoFedrigo"
+  },
+  "Experience": {
+    "title": "Professional Experience",
+    "present": "Present",
+    "technologies": "Technologies Used",
+    "cna_desc": [
+      "Software Engineer in high-performance monorepo architecture and scalable microservices utilizing RabbitMQ.",
+      "Building robust APIs utilizing both GraphQL and RESTful patterns.",
+      "Deploying and managing containerized Docker environments and Heroku orchestration."
+    ],
+    "mutant_desc": [
+      "Developed high-velocity microservices utilizing NestJS and GCP (Pub/Sub, Cloud Functions, Cloud Scheduler).",
+      "Pioneered AI-assisted developer tools by deploying custom MCP (Model Context Protocol) servers.",
+      "Wrote unit, integration, and E2E test suites with Jest to achieve exceptional coverage."
+    ],
+    "konatus_desc": [
+      "Delivered robust full-stack solutions transitioning between backend Node.js, Java (Spring Boot), and frontend Angular.",
+      "Demonstrated quick learning curves in high-intensity agile environments."
+    ],
+    "objective_desc": [
+      "Built low-latency APIs with Node.js, Express, Joi, Redis, and MongoDB.",
+      "Created highly interactive UI features with React, Redux, and TypeScript.",
+      "Conducted extensive code reviews and provided decentralized technical leadership in scrum teams."
+    ],
+    "tecnospeed_desc": [
+      "Engineered microservices using NestJS and TypeORM with PostgreSQL.",
+      "Integrated secure high-volume queuing services using AWS SQS, S3, and CloudWatch."
+    ]
+  },
+  "Contact": {
+    "title": "Let's Build Something Together",
+    "subtitle": "Feel free to reach out for collaborations, project opportunities, or just to chat about AI-assisted engineering and cloud architectures.",
+    "email": "Email Me",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_submit": "Send Message"
+  }
+}
